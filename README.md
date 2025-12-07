@@ -33,7 +33,7 @@ git commit -m "feat: [BOJ] 1234번"
 ```
 5. 작업이 완료되면, 포크한 개인 저장소의 **해당 브랜치로 푸시**한다.
 ```
-git push origin {GitHub ID}
+git push origin {github_id}
 ```
 6. `main` 브랜치를 대상으로 포크한 저장소의 작업 브랜치에서 **Pull Request**를 생성한다.
 7. 관리자가 PR을 확인한 뒤 `main` 브랜치에 **머지**한다.
