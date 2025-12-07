@@ -29,7 +29,7 @@ git checkout -b {github_id}
 4. 본인의 폴더에 문제 풀이 코드를 작성하고 커밋 메시지와 함께 **커밋**한다.
 ```
 git add .
-git commit -m "feat: BOJ / 1234번 / 실버1"
+git commit -m "feat: [BOJ] 1234번"
 ```
 5. 작업이 완료되면, 포크한 개인 저장소의 **해당 브랜치로 푸시**한다.
 ```
