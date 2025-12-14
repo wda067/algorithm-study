@@ -1,20 +1,20 @@
 # 💻 코딩 테스트 스터디
-## 📅 2025년 12월 2주차 문제
+## 📅 2025년 12월 3주차 문제
 
 ### 📌 월요일  
-- [[BOJ] 7576번 토마토](https://www.acmicpc.net/problem/7576)  
+- [[BOJ] 2457번 공주님의 정원](https://www.acmicpc.net/problem/2457)  
 
 ### 📌 화요일  
-- [[BOJ] 9663번 N-Queen](https://www.acmicpc.net/problem/9663)  
+- [[BOJ] 2295번 세 수의 합](https://www.acmicpc.net/problem/2295)  
 
 ### 📌 수요일  
-- [[BOJ] 15683번 감시](https://www.acmicpc.net/problem/15683)  
+- [[BOJ] 11779번 최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  
 
 ### 📌 목요일  
-- [[BOJ] 15486번 퇴사 2](https://www.acmicpc.net/problem/15486)  
+- [[BOJ] 2493번 탑](https://www.acmicpc.net/problem/2493)  
 
 ### 📌 금요일  
-- [[BOJ] 1931번 회의실 배정](https://www.acmicpc.net/problem/1931)  
+- [[BOJ] 18808번 스티커 붙이기](https://www.acmicpc.net/problem/18808)  
 
 ## ✅ 스터디 진행 방법
 1. 현재 저장소를 자신의 깃허브 계정으로 **포크**한다.
@@ -55,6 +55,6 @@ git push origin {github_id}
   - **chore**: 기타 변경 사항
 
 ## ✅ PR 컨벤션
-- **제목**: `[플랫폼] 문제 번호`
-  - **예시**: `[BOJ] 1234번`
+- **제목**: `타입: [플랫폼] 문제 번호`
+  - **예시**: `feat: [BOJ] 1234번`
 - **내용**: 문제 접근 방식, 풀이 과정 등 자유롭게 작성
