@@ -3,6 +3,7 @@ input = sys.stdin.readline
 
 # 세 수의 합이 가장 큰 경우의 수
 # 세 수의 합이 있는 경우
+# .
 
 N=int(input())
 U=set() # 중복 제거 하ㅕ려고
