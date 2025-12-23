@@ -1,20 +1,20 @@
 # 💻 코딩 테스트 스터디
-## 📅 2025년 12월 3주차 문제
+## 📅 2025년 12월 4주차 문제
 
 ### 📌 월요일  
-- [[BOJ] 2457번 공주님의 정원](https://www.acmicpc.net/problem/2457)  
+- [[BOJ] 4803번 트리](https://www.acmicpc.net/problem/4803)  
 
 ### 📌 화요일  
-- [[BOJ] 2295번 세 수의 합](https://www.acmicpc.net/problem/2295)  
+- [[BOJ] 1202번 보석 도둑](https://www.acmicpc.net/problem/1202)  
 
 ### 📌 수요일  
-- [[BOJ] 11779번 최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  
+- [[BOJ] 2629번 양팔저울](https://www.acmicpc.net/problem/2629)  
 
 ### 📌 목요일  
-- [[BOJ] 2493번 탑](https://www.acmicpc.net/problem/2493)  
+- [[BOJ] 4179번 불!](https://www.acmicpc.net/problem/4179)  
 
 ### 📌 금요일  
-- [[BOJ] 18808번 스티커 붙이기](https://www.acmicpc.net/problem/18808)  
+- [[BOJ] 15686번 치킨 배달](https://www.acmicpc.net/problem/15686)  
 
 ## ✅ 스터디 진행 방법
 1. 현재 저장소를 자신의 깃허브 계정으로 **포크**한다.
