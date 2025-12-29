@@ -1,20 +1,20 @@
 # 💻 코딩 테스트 스터디
-## 📅 2025년 12월 4주차 문제
+## 📅 2025년 12월 5주차 문제
 
 ### 📌 월요일  
-- [[BOJ] 4803번 트리](https://www.acmicpc.net/problem/4803)  
+- [[BOJ] 2240번 자두나무](https://www.acmicpc.net/problem/2240)  
 
 ### 📌 화요일  
-- [[BOJ] 1202번 보석 도둑](https://www.acmicpc.net/problem/1202)  
+- [[BOJ] 11559번 Puyo Puyo](https://www.acmicpc.net/problem/11559)  
 
 ### 📌 수요일  
-- [[BOJ] 2629번 양팔저울](https://www.acmicpc.net/problem/2629)  
+- [[BOJ] 15681번 트리와 쿼리](https://www.acmicpc.net/problem/15681)  
 
 ### 📌 목요일  
-- [[BOJ] 4179번 불!](https://www.acmicpc.net/problem/4179)  
+- [[BOJ] 1715번 카드 정렬하기](https://www.acmicpc.net/problem/1715)  
 
 ### 📌 금요일  
-- [[BOJ] 15686번 치킨 배달](https://www.acmicpc.net/problem/15686)  
+- [[BOJ] 1504번 특정한 최단 경로](https://www.acmicpc.net/problem/1504)  
 
 ## ✅ 스터디 진행 방법
 1. 현재 저장소를 자신의 깃허브 계정으로 **포크**한다.
