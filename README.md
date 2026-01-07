@@ -1,20 +1,20 @@
 # 💻 코딩 테스트 스터디
-## 📅 2025년 12월 5주차 문제
+## 📅 2026년 1월 1주차 문제
 
 ### 📌 월요일  
-- [[BOJ] 2240번 자두나무](https://www.acmicpc.net/problem/2240)  
+- [[BOJ] 14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499)  
 
 ### 📌 화요일  
-- [[BOJ] 11559번 Puyo Puyo](https://www.acmicpc.net/problem/11559)  
+- [[BOJ] 1941번 소문난 칠공주](https://www.acmicpc.net/problem/1941)  
 
 ### 📌 수요일  
-- [[BOJ] 15681번 트리와 쿼리](https://www.acmicpc.net/problem/15681)  
+- [[BOJ] 2206번 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  
 
 ### 📌 목요일  
-- [[BOJ] 1715번 카드 정렬하기](https://www.acmicpc.net/problem/1715)  
+- [[BOJ] 2302번 극장 좌석](https://www.acmicpc.net/problem/2302)  
 
 ### 📌 금요일  
-- [[BOJ] 1504번 특정한 최단 경로](https://www.acmicpc.net/problem/1504)  
+- [[BOJ] 1068번 트리](https://www.acmicpc.net/problem/1068)  
 
 
 ## ✅ 스터디 진행 방법
