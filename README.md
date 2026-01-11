@@ -1,20 +1,20 @@
 # 💻 코딩 테스트 스터디
-## 📅 2026년 1월 1주차 문제
+## 📅 2026년 1월 2주차 문제
 
 ### 📌 월요일  
-- [[BOJ] 14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499)  
+- [[BOJ] 2573번 빙산](https://www.acmicpc.net/problem/2573)  
 
 ### 📌 화요일  
-- [[BOJ] 1941번 소문난 칠공주](https://www.acmicpc.net/problem/1941)  
+- [[BOJ] 1261번 알고스팟](https://www.acmicpc.net/problem/1261)  
 
 ### 📌 수요일  
-- [[BOJ] 2206번 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  
+- [[BOJ] 2110번 공유기 설치](https://www.acmicpc.net/problem/2110)  
 
 ### 📌 목요일  
-- [[BOJ] 2302번 극장 좌석](https://www.acmicpc.net/problem/2302)  
+- [[BOJ] 2293번 동전 1](https://www.acmicpc.net/problem/2293)  
 
 ### 📌 금요일  
-- [[BOJ] 1068번 트리](https://www.acmicpc.net/problem/1068)  
+- [[BOJ] 1967번 트리의 지름](https://www.acmicpc.net/problem/1967)  
 
 
 ## ✅ 스터디 진행 방법
